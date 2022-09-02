@@ -1,0 +1,6 @@
+def soma(a,b):
+  return a+b
+print("Insira dois numeros: ")
+n=int(input())
+n1=int(input())
+print(soma(n,n1))
